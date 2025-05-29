@@ -63,7 +63,7 @@ The model successfully predicted battery capacity from impedance signatures, eve
 
 **Aswinthmani V**  
 AI/ML Intern at AppSynergies  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/aswinthmani-v-ab6852240/) | [GitHub](https://github.com/Aswinthmani2003)
 
 ---
 
